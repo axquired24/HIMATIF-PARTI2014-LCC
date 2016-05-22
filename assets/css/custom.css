@@ -1,0 +1,13 @@
+/* It is recommended to place all your extra/additional CSS rules here */
+.titleCase{
+	text-transform:capitalize;
+}
+.noneCase{
+	text-transform:none;
+}
+.upperCase{
+	text-transform:uppercase;
+}
+.table td, .table th{
+	text-align:center;
+}
