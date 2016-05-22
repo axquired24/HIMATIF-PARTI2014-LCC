@@ -14,7 +14,7 @@
 #### Detail
 ------
 1. Menggunakan MySQL, import ./db_backup/lcc_2014.sql
-2. Admin di ./PARTI2015/axmin (tanpa login)
+2. Admin di (./lihat_pendaftar.php) (tanpa login)
 3. Best view on Google Chrome (Not Supported on Microsoft Edge)
 4. Default MySQL Connection (ini.php) : localhost, root(username), root(password) Find the connection file and edit it.
 
